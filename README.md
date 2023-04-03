@@ -1,6 +1,6 @@
 # vscode-repro-typescript-error
 
-- `pnpm tsc` works fines in Typescript 4.x
+- `pnpm tsc` works fine in Typescript 4.x
 - Vscode reports an error.
 
 ```
